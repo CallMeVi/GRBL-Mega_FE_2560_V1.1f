@@ -9,7 +9,7 @@ If need to invert axis directions, use --> $3=7
 ...and that's all!!
 
 
-Changing log:
+Change log:
 - Default microstep set to 16
 - Probe on PF6 port
 - No Homing enabled
